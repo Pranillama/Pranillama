@@ -6,7 +6,7 @@
 
 ![Banner](pranils_workflow.png)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <h2>Skills</h2>
 
@@ -115,14 +115,14 @@
   </tr></table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <h2>GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranillama&theme=transparent&hide_border=true&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7&sideLabels=6AD3F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" alt="GitHub Streak Stats" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=Pranillama&theme=transparent&hide_border=true&ring=6AD3F7&fire=6AD3F7&currStreakLabel=6AD3F7&sideLabels=6AD3F7&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" alt="GitHub Streak Stats" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranillama&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=c9d1d9&area=true&area_color=6AD3F7&hide_border=true&custom_title=Pranil's%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranillama&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=c9d1d9&area=true&area_color=6AD3F7&hide_border=true&custom_title=Pranil's%20Contribution%20Graph" alt="Contribution Graph" width="80%"/>
 </div>
