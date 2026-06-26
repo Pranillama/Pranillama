@@ -6,6 +6,8 @@
 
 ![Banner](pranils_workflow.png)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <h2>Skills</h2>
 
 <h3>Programming Languages</h3>
@@ -112,6 +114,8 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="50" height="50" alt="Ubuntu"/></td>
   </tr></table>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h2>GitHub Activity</h2>
 
