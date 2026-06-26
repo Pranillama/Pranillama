@@ -81,7 +81,7 @@
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="50" height="50" alt="Anaconda"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV"/></td>
     <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50" height="50" alt="Google Gemini"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/openai/412991" width="50" height="50" alt="OpenAI"/></td>
+    <td align="center"><img src="openai.png" width="50" height="50" alt="OpenAI"/></td>
     <td align="center"><img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="50" height="50" alt="Anthropic"/></td>
   </tr></table>
 </div>
